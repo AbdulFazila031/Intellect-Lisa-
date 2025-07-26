@@ -1,13 +1,7 @@
 # Intellect-Lisa
-Built with LangChain to manage prompt templates and memory
+Intellect Lisa – AI-Powered Conversational ChatBot
+Intellect Lisa is a conversational chatbot powered by OpenAI’s GPT model, built using LangChain, Gradio, and the OpenAI API, with a custom-designed frontend using HTML, CSS, and JavaScript. It enables real-time, intelligent dialogue through a clean, user-friendly interface. Designed to be easily deployed via Google Colab and Hugging Face Spaces, Intellect Lisa serves as a smart assistant for general-purpose conversation and experimentation with LLM-based applications.
 
-Uses OpenAI’s GPT API to generate dynamic and contextual responses
-
-Custom frontend using HTML, CSS, and JavaScript for an enhanced user experience
-
-Integrated with Gradio for backend interaction and testing
-
-Deployed using Google Colab and Hugging Face Spaces
 
 ✨ Key Features
 GPT-powered real-time chatbot with contextual awareness
